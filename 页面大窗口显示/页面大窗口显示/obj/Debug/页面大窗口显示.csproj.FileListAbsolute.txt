@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\页面大窗口显示\页面大窗口显示\bin\Debug\页面大窗口显示.exe.config
+C:\Users\Administrator\source\repos\页面大窗口显示\页面大窗口显示\bin\Debug\页面大窗口显示.exe
+C:\Users\Administrator\source\repos\页面大窗口显示\页面大窗口显示\bin\Debug\页面大窗口显示.pdb
+C:\Users\Administrator\source\repos\页面大窗口显示\页面大窗口显示\obj\Debug\页面大窗口显示.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\页面大窗口显示\页面大窗口显示\obj\Debug\页面大窗口显示.Form1.resources
+C:\Users\Administrator\source\repos\页面大窗口显示\页面大窗口显示\obj\Debug\页面大窗口显示.Form2.resources
+C:\Users\Administrator\source\repos\页面大窗口显示\页面大窗口显示\obj\Debug\页面大窗口显示.Properties.Resources.resources
+C:\Users\Administrator\source\repos\页面大窗口显示\页面大窗口显示\obj\Debug\页面大窗口显示.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\页面大窗口显示\页面大窗口显示\obj\Debug\页面大窗口显示.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\页面大窗口显示\页面大窗口显示\obj\Debug\页面大窗口显示.exe
+C:\Users\Administrator\source\repos\页面大窗口显示\页面大窗口显示\obj\Debug\页面大窗口显示.pdb
